@@ -5,6 +5,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		FizzTest ok = new FizzTest();
 		ok.Test1();
+		ok.Test2();
+		ok.Test3();
 	}
 
 }
