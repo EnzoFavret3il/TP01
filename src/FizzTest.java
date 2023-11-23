@@ -10,6 +10,9 @@ public class FizzTest {
 		Assert.assertEquals(fiz.Mot(6),"Fizz");
 	}
 	public void Test3() {
-		Assert.assertEquals(fiz.Mot(6),"Buzz");
+		Assert.assertEquals(fiz.Mot(5),"Buzz");
+	}
+	public void Test4() {
+		Assert.assertEquals(fiz.Mot(10),"Buzz" );
 	}
 }
