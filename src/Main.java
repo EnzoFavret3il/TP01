@@ -8,6 +8,7 @@ public class Main {
 		ok.Test2();
 		ok.Test3();
 		ok.Test4();
+		ok.Test5();
 	}
 
 }

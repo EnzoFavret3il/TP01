@@ -14,5 +14,9 @@ public class FizzTest {
 	}
 	public void Test4() {
 		Assert.assertEquals(fiz.Mot(10),"Buzz" );
+		
+	}
+	public void Test5() {
+		Assert.assertEquals(fiz.Mot(7), "7");
 	}
 }
